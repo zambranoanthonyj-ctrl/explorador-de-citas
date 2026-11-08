@@ -1,0 +1,6 @@
+{
+  "name": "Aforismo — Explorador de Citas y Reflexiones",
+  "description": "Aplicación web moderna y luminosa para descubrir citas aleatorias de filosofía, motivación, liderazgo y productividad, con copiado rápido y colección de favoritos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
